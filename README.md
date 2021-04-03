@@ -6,7 +6,8 @@ Key Features: Player has option to pick spaceship
 ![image](https://user-images.githubusercontent.com/79811245/113489220-d7c87a80-94ba-11eb-9f2e-1cd332570c32.png)
 
 Menu: Animation in the Menu
-![Screenshot 2021-04-03 202724](https://user-images.githubusercontent.com/79811245/113489243-09d9dc80-94bb-11eb-8243-7f8989969f6a.jpg)
+![image](https://user-images.githubusercontent.com/79811245/113489339-95ec0400-94bb-11eb-97f9-0fb989821e14.png)
+
 Mission 1: Destroy mothership
 ![image](https://user-images.githubusercontent.com/79811245/113489252-1d854300-94bb-11eb-939f-3691a333b72f.png)
 
